@@ -1,5 +1,5 @@
 <script>
-    import { formData } from "./store";
+    import { formData } from "./store.js";
 
     export let updateShowSuccess;
 

@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 export default {
   content: [
     "./index.html",
@@ -8,13 +9,6 @@ export default {
     extend: {
       fontFamily: {
         grotesk: ['Space Grotesk, sans-serif'],
-      },
-      backgroundImage: {
-        cardImage: "url('./src/assets/bg-main-desktop.png')",
-        cardFront: "url('./src/assets/bg-card-front.png')",
-        cardBack: "url('./src/assets/bg-card-back.png')",
-        ovals: "url('./src/assets/Group 10 (2).png')",
-
       },
       colors: {
         labelColor: '#21092F',

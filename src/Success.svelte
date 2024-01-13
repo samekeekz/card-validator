@@ -1,5 +1,5 @@
 <script>
-    import IconSuccess from "./assets/icon-complete.svg";
+    import IconSuccess from "/icon-complete.svg";
     export let updateShowSuccess;
 </script>
 

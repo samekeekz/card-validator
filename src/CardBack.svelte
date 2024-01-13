@@ -5,7 +5,7 @@
 </script>
 
 <div
-    class="bg-cardBack absolute top-[469px] left-[256px] w-[447px] h-[245px] rounded-[10px] px-8 py-7 text-white"
+    class="bg-[url('/bg-card-back.png')] absolute top-[469px] left-[256px] w-[447px] h-[245px] rounded-[10px] px-8 py-7 text-white"
 >
     <div class="relative">
         <p

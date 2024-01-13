@@ -5,7 +5,7 @@
 </script>
 
 <div
-    class="bg-cardFront absolute top-[187px] left-[164px] w-[447px] h-[245px] rounded-[10px] px-8 py-7 text-white"
+    class="bg-[url('/bg-card-front.png')] absolute top-[187px] left-[164px] w-[447px] h-[245px] rounded-[10px] px-8 py-7 text-white"
 >
     <div>
         <svg
