@@ -1,6 +1,5 @@
 <script>
     import { formData } from "./store";
-    // Subscribe to changes in  the formData store
     $: data = $formData;
 </script>
 
